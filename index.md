@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Orlando
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/Orlando.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+作品：Orlando: A Biography <br>
+作者：Virginia Woolf <br>
+评分：4.5/5 <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*关键词：英国贵族少年 & 船长；传记；性转；四百年人生*
 
-### Markdown
+这是一部超现实的传记，描写了英国贵族奥兰多从十六世纪的少年变为1928年的中年并和船长丈夫结婚过程中经历的400多年岁月。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+十六世纪，奥兰多是一个英国的贵族美少年，他唇红齿白，有着紫罗兰一样的湿润透亮眼镜，他英俊的身体更是因匀称的肩膀和线条优美的双腿而突出。奥兰多在宫廷深受女王宠爱，财物地位对他来说都唾手可得。另一方面，奥兰多放荡不羁，他崇拜自然，热爱文学诗歌，喜爱在平民酒吧倾听民间故事，会隐藏自己的华服去旅店和港口寻求冒险。他接受了数次订婚，展开了几场轰轰烈烈的爱情，但每每被爱人背叛，对爱情的失望让他醉心文学，但奥兰多最终被文学评论家Green耍阴谋陷害，他便寄心自然和生活，在自己家的庄园里夜夜笙歌。
 
-```markdown
-Syntax highlighted code block
+一个罗马尼亚女大公拜访奥兰多，奥兰多在她身上再次意识到了爱情的丑陋本质，他接受了宫廷派往土耳其的大使职位。在一场派对过后，奥兰多沉睡了七日。在他沉睡之时，土耳其发生了叛乱天翻地覆，奥兰多醒来，发现自己变成了女儿身。这时他三十岁，平静接受了自己的命运。在试图融入吉普赛人群体失败后，奥兰多从土耳其乘船回到英国。奥兰多为自己穿上女装，他在船上发现了强壮的船长和水手的吸引力，但也感受到了作为另一个性别的束缚。
 
-# Header 1
-## Header 2
-### Header 3
+奥兰多回到英国，这时已经是十八世纪。之前的罗马尼亚大公突然又来造访，原来大公是男人，之前他看到奥兰多的照片就坠入爱河，男扮女装想要接近奥兰多。现在奥兰多成了女儿身，大公可以名正言顺地求婚了，然而奥兰多对大公根本不感兴趣，频繁的求婚让他十分厌烦。奥兰多频繁出入伦敦社交界，结识了许多男人，但繁华的派对过后奥兰多却总是感到空虚。他以为或许和文学大师们相处能排解空虚，但接触后却大失所望，这些诗人们并不尊重女性的智慧。奥兰多再次穿上自己少年时的男性服装，在公园里遇到了一群有趣的妓女，让他十分开心。从此他开始两性生活，根据自己的需要调整自己的服装，游走于社会之间。
 
-- Bulleted
-- List
+十九世纪到来，时代精神悄然改变，两性隔阂更加明显，已经32岁的奥兰多仍然未婚。为了妥协社会压力，奥兰多开始寻求适合的男人结婚，但多次寻求都无果。一天他在湖边扭伤了脚，被骑马路过的Shel解救，他们一见钟情，当场订婚。之后，奥兰多知道Shel是一个冒险家和船长。当西南风刮起的时候，他就要起身前往南美洲毛线。在两人独处的浪漫时光里，奥兰多发现两人都具有中性特征，融合了男性和女性的特质。两人相处甚欢，但西南风刮起，Shel离开了，留下奥兰多一人。
 
-1. Numbered
-2. List
+1928年，奥兰多漫步于伦敦街头，此时的他已经发表了自己酝酿了四百年的诗歌，取得了巨大的成功。他见到三百年前陷害自己的评论家Green，见到风华不再的前未婚妻，奥兰多一时之间领悟到了时间和意识的主观本质。午夜晚风骤停，Shel航海冒险归来，奥兰多迫不及待地和丈夫团聚。
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/Orlando.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*作者弗吉尼亚伍尔夫本人就是女同性恋，这本书写于1928年，她把这本书当做给暗恋的女生的礼物。这本书挑战传统性别观念的主题在一百年前有很强的实验性，书里的奥兰多虽然是男的，但他从一开始就具有许多中性特征，在他的身上性别是流动的。即便是他粗犷的船长丈夫，也有着许多女性化的性格特质。而奥兰多的前爱人俄罗斯女大使，也有着许多男性特质，以致于奥兰多看到她的第一眼以为她是男人。伍尔夫在书里强调性别是社会赋予的而不是与生俱来的，在一个更加宽容的社会，人才能更自由地摆脱性别的限制遵从自己的内心。*
